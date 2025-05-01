@@ -2,6 +2,7 @@
 
 ## 📌 Project Description
 A full-stack MERN application to manage student team members. Users can add, view, and explore individual member details including name, roll number, department, email, role, and photo.
+this project uses MERN.
 
 ## 🛠️ Installation
 
