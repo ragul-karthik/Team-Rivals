@@ -31,7 +31,7 @@ npm start
 | GET    | /api/members/:id       | Get member by ID         |
 | POST   | /api/members           | Add a new member         |
 
-### Hoe To Run
+### How To Run
 
 Start backend server:
 
